@@ -56,4 +56,4 @@ streamlit run app.py
 **Harshit Singh**    
 
 ---
-⭐ If you like this project, give it a star!
+⭐ 
